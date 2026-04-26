@@ -3,5 +3,6 @@ uuid = "231036ac-e413-4914-9199-752ef18ade6f"
 repo = "https://github.com/1m1-github/LoopOSRegistry.git"
 
 [packages]
+46edde18-e7c3-44cd-8d97-b21707df68d5 = { name = "LoopOS", path = "L/LoopOS" }
 9ee615e3-f606-4a20-a016-0e0c0b6a6174 = { name = "LoopOSAdvice", path = "L/LoopOSAdvice" }
 ad9b6b7e-56e2-4cf0-bb5d-5abade000bda = { name = "LoopOSBasicTools", path = "L/LoopOSBasicTools" }
