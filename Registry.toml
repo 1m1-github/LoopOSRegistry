@@ -3,3 +3,4 @@ uuid = "231036ac-e413-4914-9199-752ef18ade6f"
 repo = "https://github.com/1m1-github/LoopOSRegistry.git"
 
 [packages]
+9ee615e3-f606-4a20-a016-0e0c0b6a6174 = { name = "LoopOSAdvice", path = "L/LoopOSAdvice" }
