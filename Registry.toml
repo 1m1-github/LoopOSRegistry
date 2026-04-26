@@ -4,5 +4,6 @@ repo = "https://github.com/1m1-github/LoopOSRegistry.git"
 
 [packages]
 46edde18-e7c3-44cd-8d97-b21707df68d5 = { name = "LoopOS", path = "L/LoopOS" }
+7654b0f1-1600-4d66-8bdb-e1a4422b63ec = { name = "LoopOSAgentAdvice", path = "L/LoopOSAgentAdvice" }
 9ee615e3-f606-4a20-a016-0e0c0b6a6174 = { name = "LoopOSAdvice", path = "L/LoopOSAdvice" }
 ad9b6b7e-56e2-4cf0-bb5d-5abade000bda = { name = "LoopOSBasicTools", path = "L/LoopOSBasicTools" }
